@@ -1,0 +1,9 @@
+streamlit
+hashlib
+algosdk
+algosdk.v2client
+algosdk.transaction
+sqlite3
+PIL
+random
+streamlit_option_menu
