@@ -1,8 +1,6 @@
 pip>=23.1.2
 streamlit
 py-algorand-sdk
-algosdk.v2client
-algosdk.transaction
 sqlite3
 PIL
 random
