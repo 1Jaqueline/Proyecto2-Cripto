@@ -1,7 +1,7 @@
 pip>=23.1.2
 streamlit
 py-algorand-sdk
-sqlite3
+pysqlite3
 PIL
 random
 streamlit_option_menu
