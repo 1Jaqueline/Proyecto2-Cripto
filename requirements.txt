@@ -1,6 +1,6 @@
 pip>=23.1.2
 streamlit
-algosdk
+py-algorand-sdk
 algosdk.v2client
 algosdk.transaction
 sqlite3
