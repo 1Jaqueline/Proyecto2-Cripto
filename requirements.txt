@@ -1,6 +1,5 @@
 pip>=23.1.2
 streamlit
-hashlib
 algosdk
 algosdk.v2client
 algosdk.transaction
