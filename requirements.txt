@@ -3,5 +3,5 @@ streamlit
 py-algorand-sdk
 pysqlite3
 Pillow
-random
+pyrandom
 streamlit_option_menu
